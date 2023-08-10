@@ -1,0 +1,62 @@
+food_id,name,price
+1,Garden Salad,185
+2,Russian Salad,225
+3,Fruit Salad,325
+4,Mushroom Soup,195
+5,Veg soup,185
+6,Chicken soup,235
+7,Peanut Sadheko,185
+8,Bhatmas Sadheko,185
+9,Corn salt & pepper,245
+10,Mustang Aalu,235
+11,Golden Fry Mushroom,355
+12,Veg pakoda,195
+13,Paneer pakoda,335
+14,Mushroom Choila,305
+15,French Fires,195
+16,Paneer tawa,375
+17,Chips Chilly,255
+18,Paneer Chilly,345
+19,Onion Rings,225
+20,Sesame Chicken,385
+21,Chicken Chilly,345
+22,Chicken Roast,325
+23,Rosemary Chicken Stick,395
+24,Spicy Garlic Wing,375
+25,Chicken Tawa,385
+26,Chicken Choila,365
+27,Mutton Choila,515
+28,Chicken Kurkure ,335
+29,Mutton Tass,375
+30,Chicken Tass ,525
+31,Timur Chicken ,355
+32,Chicken Sadheko,365
+33,Mutton Bulgogi,545
+34,Chicken Bulgogi,395
+35,Classic Veg Platter ,745
+36,Classic Non-Veg Platter ,865
+37,Wings Platter,895
+38,Chicken Sekuwa,375
+39,Mutton Sekuwa,525
+40,Naan,100
+41,Paneer Tikka,395
+42,Chicken Tikka,395
+43,Paneer Butter Masala,455
+44,Chicken Butter Masala,455
+45,Bengoli Chicken,435
+46,Veg Momo,235
+47,Veg fry Momo,245
+48,Veg jhol Momo,285
+49,Veg c-Momo,295
+50,Chicken Momo,275
+51,Chicken jhol Momo,285
+52,Chicken fry Momo,315
+53,Chicken c-momo,325
+54,Chicken Chowmein,200
+55,Mix Chowmein,240
+56,Veg Chowmein,160
+57,Veg Fried Rice,200
+58,Mix Fried Rice,260
+59,Chicken Fried Rice,240
+60,Chicken Biryani,320
+61,Veg Biryani,200
